@@ -7,10 +7,23 @@
     text-align: center;
     background-repeat: no-repeat;
     background-size: cover;
-    color: wheat;
+    color: white;
     padding-top: 200px;
 }
 .aboutus{
     text-align: center;
     padding: 30px;
+}
+
+#services{
+    background-image:url("/images/backgrounds/s_image.jpg") ;
+    background-repeat: no-repeat;
+    height: 360px;
+    /* width: 1200px; */
+    text-align: center;
+    color: white;
+    padding-top: 60px;
+    /* padding-bottom: 30px; */
+    padding: 120px;
+    
 }
