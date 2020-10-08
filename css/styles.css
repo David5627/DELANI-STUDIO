@@ -1,0 +1,17 @@
+.Davy{
+    
+    background-image: url("/images/backgrounds/h_img.jpg ");
+    height: 400px ;
+    /* width: 400px; */
+    /* margin-right: 12px; */
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: wheat;
+    padding-top: 60px;
+}
+.kill{
+    
+    margin-top:80px;
+
+}
