@@ -27,3 +27,17 @@
     padding: 120px;
     
 }
+#icons{
+    text-align: center;
+    margin-right: 30px;
+    /* display: flex; */
+    padding-right: 30px;
+
+}
+.portfolio{
+    text-align: center;
+    padding: 30px;
+}
+.row{
+    padding-top: 20px;
+}
