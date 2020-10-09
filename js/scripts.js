@@ -1,0 +1,31 @@
+$(document).ready(function(){
+    $(".zana").click(function(){
+        $(".zana").hide();
+        $("#mirza").show();
+    });
+    $("#mirza").click(function(){
+        $("#mirza").hide();
+        $(".zana").show();
+    });
+})
+$(document).ready(function(){
+    $(".Nush").click(function(){
+        $(".Nush").hide();
+        $("#Naz").show();
+    });
+    $("#Naz").click(function(){
+        $("#Naz").hide();
+        $(".Nush").show();
+});
+});
+
+$(document).ready(function(){
+    $(".daudi").click(function(){
+        $(".daudi").hide();
+        $("#fari").show();
+    });
+    $("#fari").click(function(){
+        $("#fari").hide();
+        $(".daudi").show();
+});
+});
