@@ -29,3 +29,20 @@ $(document).ready(function(){
         $(".daudi").show();
 });
 });
+
+
+  $(document) .ready(function(){
+      $("#myForm").submit(function(event){
+        var name = $("input#will").val();
+      var email = $("input#eva").val();
+      var infor =$("textarea#eve").val();
+      if ($("input#will").val() && $("input#eva").val()){
+          alert(name + " thank you for your concern we have recieved your message.Click okay to fill the form.");
+
+
+      }else {
+          alert("please enter your credential below.eg name and email.")
+      }
+      event.preventDefault();
+  });
+  });
