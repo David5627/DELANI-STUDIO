@@ -75,6 +75,7 @@ footer{
     margin-right: 5%;
     width: 30%;
     background: transparent;
+    color: white;
 }
 #eve{
     width: 62%;
@@ -82,9 +83,20 @@ footer{
     background: transparent;
     color: white;
 
+
 }
 #eva{
    width: 30%;
     background: transparent;
+    color: white;
 
+}
+#will::placeholder{
+    color: white;
+}
+#eva::placeholder{
+    color: white;
+}
+#eve::placeholder{
+    color: white;
 }
