@@ -8,8 +8,7 @@
     
     background-image: url("../images/backgrounds/h_img.jpg ");
     height: 500px ;
-    /* width: 400px; */
-    /* margin-right: 12px; */
+  
     text-align: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -25,18 +24,18 @@
     background-image:url("../images/backgrounds/s_image.jpg") ;
     background-repeat: no-repeat;
     height: 360px;
-    /* width: 1200px; */
+  
     text-align: center;
     color: white;
     padding-top: 60px;
-    /* padding-bottom: 30px; */
+ 
     padding: 120px;
     
 }
 #icons{
     text-align: center;
     margin-right: 30px;
-    /* display: flex; */
+  
     padding-right: 30px;
 
 }
@@ -47,11 +46,14 @@
 .row{
     padding-top: 20px;
 }
-.contactus{
+.contact{
     background-image:url("../images/backgrounds/c_image.jpg") ;
     height: 400px;
     color: white;
     text-align: center;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 #email{
     background-color:none;
@@ -60,31 +62,29 @@ footer{
     text-align: center;
     padding: 30px;
 }
-#eve{
-    height: 200px;
-    width: 700px;
-    margin-left: 200px;
-    background: none;
-    color: white;
-}
+
 .col{
     margin-left: 50px;
     margin-right: 50px;
     background:none ;
     color: white;
 }
-#kil{
-    background:none;
-    color:white;
+
+#will{
+    margin-left: 20%;
+    margin-right: 5%;
+    width: 30%;
+    background: transparent;
 }
-#eve::placeholder{
+#eve{
+    width: 62%;
+    margin-left: 22%;
+    background: transparent;
     color: white;
-   
+
 }
-#kil::placeholder{
-    color: white;
-    /* color: white; */
+#eva{
+   width: 30%;
+    background: transparent;
+
 }
-/* h3{
-    font-size: 10px;
-} */
