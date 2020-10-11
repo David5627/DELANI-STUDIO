@@ -1,5 +1,5 @@
 # DELANI-STUDIO
-App for software developers.
+A website for software developers.
 
 ## DAVID KILONZO
 This is all about me.You can view my portfolio to know about me in the link below.
