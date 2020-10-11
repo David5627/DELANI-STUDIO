@@ -56,3 +56,30 @@ $(document).ready(function(){
     x.style.height = "40px";
     x.style.width = "32px";
   }
+
+$(document).ready(function(){
+    $("#harmud").hover(function(){
+        $("#harmud1").toggle();
+    });
+    $("#eliud").hover(function(){
+        $("#eliud1").toggle();
+    });
+    $("#eli").hover(function(){
+        $("#eli1").toggle();
+    });
+    $("#est").hover(function(){
+        $("#est1").toggle();
+    });
+    $("#wagon").hover(function(){
+        $("#wagon1").toggle();
+    });
+    $("#shatta").hover(function(){
+        $("#shatta1").toggle();
+    });
+    $("#slice").hover(function(){
+        $("#slice1").toggle();
+    });
+    $("#peng").hover(function(){
+        $("#peng1").toggle();
+    });
+})
