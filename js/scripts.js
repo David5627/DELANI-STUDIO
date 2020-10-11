@@ -38,7 +38,7 @@ $(document).ready(function(){
       var infor =$("textarea#eve").val();
       if ($("input#will").val() && $("input#eva").val()){
           alert(name + " we have received your message. Thank you for reaching out to us.");
-
+        
 
       }else {
           alert("please enter your credential below.eg name and email.")
