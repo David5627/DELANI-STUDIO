@@ -7,13 +7,13 @@
 .Davy{
     
     background-image: url("../images/backgrounds/h_img.jpg " );
-    height: 600px ;
+    height: 620px ;
   
     text-align: center;
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
-    padding-top: 250px;
+    padding-top: 200px;
 
 }
 .aboutus{
@@ -101,4 +101,11 @@ footer{
 }
 #eve::placeholder{
     color: white;
+}
+#sultan{
+   
+    margin-top: 93px;
+}
+#shee{
+    padding-bottom: 20px;
 }
