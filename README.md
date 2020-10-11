@@ -1,5 +1,5 @@
 # DELANI-STUDIO
-In Ghana`s culture names are specifically given according to the day of birth.
+App for software developers.
 
 ## DAVID KILONZO
 This is all about me.You can view my portfolio to know about me in the link below.
@@ -13,9 +13,6 @@ This is all about me.You can view my portfolio to know about me in the link belo
 * `https://david5627.github.io/my-portfolio/
 * `https://david5627.github.io/Akan-Names/
 
- 
- ## LICENCE
- * Davidkilonzo@2020
 
 ### Technologies used
  * HTML
