@@ -25,19 +25,19 @@ $(document).ready(function(){
         $("#fari").show();
     });
     $("#fari").click(function(){
-        $("#fari").hide();
+        $("#fari").toggle();
         $(".daudi").show();
 });
 });
 
 
-  $(document) .ready(function(){
-      $("#myForm").submit(function(event){
+  $(document) .ready(function(event){
+      $("#myForm").submit(function(){
         var name = $("input#will").val();
       var email = $("input#eva").val();
       var infor =$("textarea#eve").val();
       if ($("input#will").val() && $("input#eva").val()){
-          alert(name + " thank you for your concern we have recieved your message.Click okay to fill the form.");
+          alert(name + " we have received your message. Thank you for reaching out to us.");
 
 
       }else {
