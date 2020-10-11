@@ -6,14 +6,15 @@
   
 .Davy{
     
-    background-image: url("../images/backgrounds/h_img.jpg ");
-    height: 500px ;
+    background-image: url("../images/backgrounds/h_img.jpg " );
+    height: 600px ;
   
     text-align: center;
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
-    padding-top: 200px;
+    padding-top: 250px;
+
 }
 .aboutus{
     text-align: center;
@@ -45,6 +46,7 @@
 }
 .row{
     padding-top: 20px;
+
 }
 .contact{
     background-image:url("../images/backgrounds/c_image.jpg") ;
